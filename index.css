@@ -1,0 +1,94 @@
+body { font-family: sans-serif;}
+*{padding: 0px;
+  margin: 0px; font-family: sans-serif;}
+  header {  background-color:black; margin-bottom: 0px; height: 900px; width:100%;}
+  header {  background-image:url(https://i.pinimg.com/564x/69/5f/5e/695f5ebd4928145a0febadbfd1ba6c73.jpg); 
+    background-repeat: no-repeat; background-position:600px;background-size: contain;  } 
+  .lio {color: #EAC696;} 
+  .nav-header h1 {margin-right: 25px; font-size: xx-large;}
+  .nav-header {
+              width: 100%; display: flex;padding: 12px; 
+              color: white; font-family: sans-serif;}
+  .nav-header a {text-decoration: none; color: white; } 
+  .nav-header a:hover {color: #EAC696;} 
+  .nav-header input { background-color:#EAC696; border-radius:  25px;  padding:5px 10px 5px 10px; font-size: medium; border: solid black;}
+  .nav-header input:hover { transform: scale(1.2);}  
+  .nav-header a,input {margin: auto;}
+
+   
+  
+  .Header-paragraph {color: white; padding: 70px; height: 324px; display: block;} 
+  .Moy-name {font-size: 50pt; color: #EAC696;}
+  .Header-paragraph p {margin:20px; margin-left: 0px; }
+  .Header-paragraph input {padding: 12px; border-radius: 20px; width: 300px; }
+
+  main {background-color:#EAC696; margin: 0px; padding :12px; }
+
+  /* .About-Me {  */
+     /* width: 100%; height: 900px;  background-color: #EAC696; */
+      /* color: rgb(255, 255, 255); letter-spacing: 1px ; line-height: 50px; text-align:left;  */
+    /* text-align:left; }  */
+ 
+
+
+ #about-me input 
+{ width: 200px; background-color: #EAC696; border: solid rgba(28, 28, 27) ; 
+                  padding: 10px 20px 10px 20px;  border-radius:20px; margin: 15px;}
+   #about-me input:hover {background-color:white;}
+  #about-me input { width: 200px; background-color: #EAC696; }
+
+/* .About-Me1 {background-image:url(https://i.pinimg.com/564x/69/56/da/6956dabea009cd89e09816d0136bcf4e.jpg); background-size: 5000px; */
+            /* background-repeat: no-repeat; background-position: 10px; background-size: contain; } */
+/* .section-p {  padding: 10px ; margin-left: 25px; background-color:black;  ; border-radius: 15px;  */
+  /* color: white;  text-align: left; letter-spacing: 1px ; line-height: 40px;  text-align:left; width:90%; height: 800px;} */
+
+  /* .section-p h2 ,p ,img ,input {padding: 15px;} */
+/* .section-p img { aspect-ratio:auto ; float: left;} */
+#about-me {text-align: center;  padding: 15px; height: 800px; background-color: black;  color: white;;border-radius: 10px; margin: 20px;}
+
+
+#services { margin: 10px; border: solid red; text-align:center;padding: 5px; background-color: black; color:white;  height:  800px;
+border-radius: 10px; line-height:35px; } 
+
+
+/* .Services-card{ border: solid red; width: 300px; height: 500px; margin: auto; display: inline-block;margin: 10px; } */
+ /* height: 500px; width: 300px ; aspect-ratio: 1.1;  background-color:black; border:solid rgb(255, 255, 255);  line-height   } */
+ /* .Services-card strong {font-size: } */
+  /* .card-main {} */
+ /* .read-more {padding: 10px; background-color: #EAC696; border-radius: 12px; border: solid black;} */
+ /* .read-more:hover {background-color: white ; color: black;} */ 
+ /* .card-content {background-color: aqua; margin: 10px; margin: auto; height: 500px; width: 300px;  display:inline-block;}  */
+  /* {border: solid red; width: 300px; height: 600px; } */
+ 
+#Hire { padding: 10px; background-color: #EAC696; color:black ; border-radius: 13px; border-color: #EAC696; margin: 40px; font-family: Arial, Helvetica, sans-serif; font-size: large;}
+#Hire:hover {background-color: white; border-color: white;}
+
+  .footer-media {color: white; background-color:  black; line-height: 40px; padding-top: 30px; padding-bottom: 13px; text-align: center;}
+  .name-footer {font-size: xx-large;}
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%; 
+    margin: 20px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7; }
+  .fa-linkedin {background-color: #EAC696; color: white;}
+  .fa-facebook{background-color: #EAC696; color: white;}
+  .fa-instagram {background-color: #EAC696; color: white;}
+
+
+
+
+.services {background-color: black; color: black ;border-radius: 15px; margin: 20px ; height:480px; padding:50px ;}
+.services-card { margin: 5px;  background-color:black; border-radius:20px; line-height: 30px; padding: 12px; 
+ background-color: #EAC696 ;color: #000; }
+
+.fa-bell , .fa-user ,.fa-cloud{ font-size:30px; background-color:black; color: #EAC696;}
+ #read-more {padding: 15px; background-color: #EAC696; color:black; border-radius: 15px; border:solid black ; }
+ #read-more:hover {background-color: white;  color: #000;}
