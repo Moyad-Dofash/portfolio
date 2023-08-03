@@ -1,0 +1,17 @@
+body { font-family: sans-serif;}
+*{padding: 0px;
+  margin: 0px; font-family: sans-serif;}
+  header {  background-color:black; margin-bottom: 0px; width:100%;}
+  .lio {color: #EAC696;} 
+  .nav-header h1 {margin-right: 25px; font-size: xx-large;}
+  .nav-header {
+              width: 100%; display: flex;padding: 12px; 
+              color: white; font-family: sans-serif;}
+  .nav-header a {text-decoration: none; color: white; } 
+  .nav-header a:hover {color: #EAC696;} 
+  .nav-header input { background-color:#EAC696; border-radius:  25px;  padding:5px 10px 5px 10px; font-size: medium; border: solid black;}
+  .nav-header input:hover { transform: scale(1.2);}  
+  .nav-header a,input {margin: auto;}
+  .button {padding: 15px; margin:12px; border-radius: 12px; width: 100px; background-color: black; color: white;}
+  .button:hover {background-color: white ; color: black; }
+  .btns  { width: 100%; margin:200px 550px 550px 550px ; display: flex;}
