@@ -1,7 +1,7 @@
 body { font-family: sans-serif;}
 *{padding: 0px;
   margin: 0px; font-family: sans-serif;}
-  header {  background-color:black; margin-bottom: 0px; height: 900px; width:100%;}
+  header {  background-color:black; margin-bottom: 0px;  width:100%;}
   header {  background-image:url(https://i.pinimg.com/564x/69/5f/5e/695f5ebd4928145a0febadbfd1ba6c73.jpg); 
     background-repeat: no-repeat; background-position:600px;background-size: contain;  } 
   .lio {color: #EAC696;} 
@@ -9,7 +9,7 @@ body { font-family: sans-serif;}
   .nav-header {
               width: 100%; display: flex;padding: 12px; 
               color: white; font-family: sans-serif;}
-  .nav-header a {text-decoration: none; color: white; } 
+  .nav-header a {text-decoration: none; color: white;  } 
   .nav-header a:hover {color: #EAC696;} 
   .nav-header input { background-color:#EAC696; border-radius:  25px;  padding:5px 10px 5px 10px; font-size: medium; border: solid black;}
   .nav-header input:hover { transform: scale(1.2);}  
@@ -22,7 +22,7 @@ body { font-family: sans-serif;}
   .Header-paragraph p {margin:20px; margin-left: 0px; }
   .Header-paragraph input {padding: 12px; border-radius: 20px; width: 300px; }
 
-  main {background-color:#EAC696; margin: 0px; padding :12px; }
+  main {background-color:#EAC696; margin: 0px; padding :12px; height: fit-content; }
 
   /* .About-Me {  */
      /* width: 100%; height: 900px;  background-color: #EAC696; */
@@ -92,3 +92,15 @@ border-radius: 10px; line-height:35px; }
 .fa-bell , .fa-user ,.fa-cloud{ font-size:30px; background-color:black; color: #EAC696;}
  #read-more {padding: 15px; background-color: #EAC696; color:black; border-radius: 15px; border:solid black ; }
  #read-more:hover {background-color: white;  color: #000;}
+
+
+
+
+
+
+
+
+
+
+.Header {min-width: 1200px; ; }
+header nav { width: 50%;}

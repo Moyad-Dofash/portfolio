@@ -15,3 +15,7 @@ body { font-family: sans-serif;}
   .button {padding: 15px; margin:12px; border-radius: 12px; width: 100px; background-color: black; color: white;}
   .button:hover {background-color: white ; color: black; }
   .btns  { width: 100%; margin:200px 550px 550px 550px ; display: flex;}
+   
+  header {}
+  main {}
+  footer {}
