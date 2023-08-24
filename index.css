@@ -2,22 +2,28 @@ body { font-family: sans-serif;}
 *{padding: 0px;
   margin: 0px; font-family: sans-serif;}
   header {  background-color:black; margin-bottom: 0px;  width:100%;}
-  /* header {  background-image:url(Inkedimage123.jpg);  */
+  header {  background-image:url(https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/09/tips-for-portrait-photography-dead-space-77267726.jpg?resize=1500%2C1000&ssl=1);
     background-repeat: no-repeat; background-position:600px;background-size: contain;  } 
   .lio {color: #EAC696;} 
   .nav-header h1 {margin-right: 25px; font-size: xx-large;}
   .nav-header {
-              width: 100%; display: flex;padding: 12px; 
-              color: white; font-family: sans-serif;}
+    width: 100%; display: flex;padding: 12px; 
+    color: white; font-family: sans-serif;}
+ 
   .nav-header a {text-decoration: none; color: white;  } 
   .nav-header a:hover {color: #EAC696; text-decoration:underline;} 
   .nav-header input { background-color:#EAC696; border-radius:  25px;  padding:5px 10px 5px 10px; font-size: medium; border: solid black;}
-  /* .nav-header input:hover { transform: scale(1.2);}   */
+  .nav-header input:hover { transform: scale(1.2);}  
   .nav-header a,input {margin: auto;}
-
-   
   
-  .Header-paragraph {color: white; padding: 70px; height: 324px; display: block;} 
+   /* .content-nav { 
+    display: flex;padding: 12px; 
+   } */
+   .content-header {  
+    display: inline-flex; margin: 200px
+    ;}
+  
+  .Header-paragraph {color: white; padding: 70px;  display: block;} 
   .Moy-name {font-size: 50pt; color: #EAC696;}
   .Header-paragraph p {margin:20px; margin-left: 0px; }
   .Header-paragraph input {padding: 12px; border-radius: 20px; width: 300px; }
@@ -102,5 +108,3 @@ border-radius: 10px; line-height:35px; }
 
 
 
-.Header {min-width: 1200px; ; }
-header nav { width: 50%;}
