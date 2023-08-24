@@ -2,7 +2,7 @@ body { font-family: sans-serif;}
 *{padding: 0px;
   margin: 0px; font-family: sans-serif;}
   header {  background-color:black; margin-bottom: 0px;  width:100%;}
-  header {  background-image:url(https://i.pinimg.com/564x/69/5f/5e/695f5ebd4928145a0febadbfd1ba6c73.jpg); 
+  /* header {  background-image:url(Inkedimage123.jpg);  */
     background-repeat: no-repeat; background-position:600px;background-size: contain;  } 
   .lio {color: #EAC696;} 
   .nav-header h1 {margin-right: 25px; font-size: xx-large;}
@@ -10,9 +10,9 @@ body { font-family: sans-serif;}
               width: 100%; display: flex;padding: 12px; 
               color: white; font-family: sans-serif;}
   .nav-header a {text-decoration: none; color: white;  } 
-  .nav-header a:hover {color: #EAC696;} 
+  .nav-header a:hover {color: #EAC696; text-decoration:underline;} 
   .nav-header input { background-color:#EAC696; border-radius:  25px;  padding:5px 10px 5px 10px; font-size: medium; border: solid black;}
-  .nav-header input:hover { transform: scale(1.2);}  
+  /* .nav-header input:hover { transform: scale(1.2);}   */
   .nav-header a,input {margin: auto;}
 
    
