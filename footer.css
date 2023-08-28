@@ -1,0 +1,37 @@
+body { font-family: sans-serif;}
+*{padding: 0px;
+ margin: 0px; font-family: sans-serif;}
+ main {background-color:#EAC696; margin: 0px; padding :12px; height: fit-content; }
+
+#Hire { padding: 10px; background-color: #EAC696; color:black ; border-radius: 13px; border-color: #EAC696; margin: 40px; font-family: Arial, Helvetica, sans-serif; font-size: large;}
+#Hire:hover {background-color: white; border-color: white;}
+
+  .footer-media {color: white; background-color:  black; line-height: 40px; padding-top: 30px; padding-bottom: 13px; text-align: center;}
+  .name-footer {font-size: xx-large;}
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%; 
+    margin: 20px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7; }
+  .fa-linkedin {background-color: #EAC696; color: white;}
+  .fa-facebook{background-color: #EAC696; color: white;}
+  .fa-instagram {background-color: #EAC696; color: white;}
+
+
+
+
+.services {background-color: black; color: black ;border-radius: 15px; margin: 20px ; height:480px; padding:50px ;}
+.services-card { margin: 5px;  background-color:black; border-radius:20px; line-height: 30px; padding: 12px; 
+ background-color: #EAC696 ;color: #000; }
+
+.fa-bell , .fa-user ,.fa-cloud{ font-size:30px; background-color:black; color: #EAC696;}
+ #read-more {padding: 15px; background-color: #EAC696; color:black; border-radius: 15px; border:solid black ; }
+ #read-more:hover {background-color: white;  color: #000;}

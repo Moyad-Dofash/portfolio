@@ -1,0 +1,32 @@
+ body { font-family: sans-serif;}
+*{padding: 0px;
+ margin: 0px; font-family: sans-serif;}
+ main {background-color:#EAC696; margin: 0px; padding :12px; height: fit-content; }
+
+ 
+
+   #about-me input 
+   { width: 200px; background-color: #EAC696; border: solid rgba(28, 28, 27) ; 
+                     padding: 10px 20px 10px 20px;  border-radius:20px; margin: 15px;}
+      #about-me input:hover {background-color:white;}
+     #about-me input { width: 200px; background-color: #EAC696; }
+     
+     .about-p {text-align: left;    padding-top: 50px;  overflow-wrap: normal;  line-height: 50px;}
+     .about-me img {width: 500px; height:375px;} 
+   
+
+
+#about-me {text-align: center;  padding: 15px; height: fit-content; width: fit-content; background-color: black;  color: white;;border-radius: 10px; margin: 20px;}
+
+
+#services { margin: 10px; border: solid red; text-align:center;padding: 5px; background-color: black; color:white;  height:  fit-content;
+border-radius: 10px; line-height:35px; }
+ .services-card {height:fit-content; margin-bottom: 15px;}
+
+/* laptops and screens above 1320px  */
+@media screen  and (min-device-width:862px;) and (max-device-width:1340px;)
+{
+  
+  .about-me img {min-width: 200px;min-height: 200px; max-width: 500px; max-height: 700px;}
+
+} 
